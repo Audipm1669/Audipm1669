@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Audi</h1>
-<h3 align="center">A beginner web developer that still learning how the web works</h3>
+<h3 align="center">A web developer that still learning how the web works</h3>
 
 - 🌱 I’m currently learning **React, Spring-boot, and MySQL**
 
